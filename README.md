@@ -1,4 +1,4 @@
-# chainlit-app
+# chainlit-app 🤖
 
 Are you tired of only ever talking with humans? Would you like to meet our new robot overlords now that A.I. is a thing? Well look no further.
 
@@ -7,7 +7,7 @@ Are you tired of only ever talking with humans? Would you like to meet our new r
 Clone this repo, like so...
 
 ```
-git clone {URL}
+git clone https://github.com/rmunoz33/chainlit-app.git
 ```
 
 Then navigate into the repo, like so...

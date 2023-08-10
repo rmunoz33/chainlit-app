@@ -44,6 +44,5 @@ async def main(message: str):
     # Get response "res"
     res = await llm_chain.acall(message, callbacks=[cl.AsyncLangchainCallbackHandler()])
 
-
     # "res" is a Dict. For this chain, we get the response by reading the "text" key.
     await cl.Message(content=res["text"]).send()
